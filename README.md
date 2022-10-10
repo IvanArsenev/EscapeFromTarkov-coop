@@ -6,4 +6,4 @@ I want to create a mod that allows you to go on raids only with your friends. Th
 |
 COOP - [paulov-t](https://github.com/paulov-t)
 |
-Battle State Games - They threatened to sue, so we are suspending development
+<h1>Battle State Games - They threatened to sue, so we are suspending development</h1>
